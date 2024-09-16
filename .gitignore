@@ -38,6 +38,7 @@ save-commands.json
 *.bin
 *.zip
 .DS_Store
+!firmware/*.bin
 
 *.hex
 
